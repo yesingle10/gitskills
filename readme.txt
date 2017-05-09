@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-my name is branch test add.
+Creating a new branch is quick AND simple.
